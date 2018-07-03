@@ -2,7 +2,13 @@
 
 Everett's Obvious, Minimal Language
 
-sample.eoml
+# Usage
+
+```
+npm install eoml --save
+```
+
+# Sample
 
 ```
 # comments here
