@@ -1,6 +1,6 @@
 {
   "name": "eoml",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Everett's Obvious, Minimal Language",
   "main": "out/eoml.js",
   "types": "out/eoml.d.ts",
