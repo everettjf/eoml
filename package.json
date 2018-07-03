@@ -1,0 +1,22 @@
+{
+  "name": "eoml",
+  "version": "1.0.1",
+  "description": "Everett's Obvious, Minimal Language",
+  "main": "eoml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everettjf/eoml.git"
+  },
+  "keywords": [
+    "eoml"
+  ],
+  "author": "everettjf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/everettjf/eoml/issues"
+  },
+  "homepage": "https://github.com/everettjf/eoml#readme"
+}
