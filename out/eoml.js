@@ -1,37 +1,6 @@
 'use strict';
 Object.defineProperty(exports, "__esModule", { value: true });
-/*
- Everett's Obvious Minimal Language
-
- sample.eoml
- ```
- key1:value1
- key2:value2
- key3:value3
- key4:
- [
-     arrayitem1
-     arrayitem2
-     arrayitem3
-     arrayitem4
-     arrayitem5
- ]
- key5:
- [
-     itemkey1:itemvalue1
-     itemkey2:itemvalue2
-     itemkey3:itemvalue3
-     -
-     itemkey1:itemvalue1
-     itemkey2:itemvalue2
-     itemkey3:itemvalue3
-     -
-     itemkey1:itemvalue1
-     itemkey2:itemvalue2
-     itemkey3:itemvalue3
- ]
- ```
-*/
+// Everett's Obvious, Minimal Language
 class EOML {
     constructor() {
         this._value = {};
